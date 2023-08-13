@@ -22,7 +22,7 @@ public class Player {
     }
 
     public void startingPosition(){
-        int currentPosition = 0;
+        currentPosition = 1;
         movePlayer(0);
 
     }
